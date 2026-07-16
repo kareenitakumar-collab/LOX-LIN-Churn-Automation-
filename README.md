@@ -18,7 +18,7 @@ Output Files: When the script finishes running successfully, it generates distin
 Model Outputs (Historical Data) 
 a. LOX_Model_Output.xlsx & LIN_Model_Output.xlsx 
 b. Purpose: The "What Has Happened" files 
-c. Contents: Contains all cleaned historical delivery data up to the present day. Included calculated featres such as 3YearAvg, YoY Change, seasonal tags, and the Churn flag based on VolumeZero metric.
+c. Contents: ...
 
 Forecast Files (Future Predictions)
 a. LOX_Forecast.xlsx & LIN_Forecast.xlsx 
