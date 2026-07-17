@@ -20,7 +20,7 @@
    This script handles the raw data extraction, cleaning, and historical classification.
    
    * Smart Cleaning:
-                   Automatically sanitizes raw Excel data, stipping invisible characters and dynamically mapping columns regardless of slight naming variations
+                   Automatically sanitizes raw Excel data, stripping invisible characters and dynamically mapping columns regardless of slight naming variations
      
    * Volume Aggregation:
                    Safely aggregates multiple deliveries within a single month to build a continuous, accurate time-series for every Delivery Point
