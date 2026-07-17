@@ -5,7 +5,7 @@
 
 Included in the repository: 
 
-      1. All original datasets containing LIN Volume Data and LOX Volume Data, as well as DP Mapping file (.excel)
+      1. All original datasets containing LIN Volume Data and LOX Volume Data, and DP Mapping file (.excel)
       2. Visual Studio (Python Code) forecast visuals (.png)
       3. LIN/LOX Churn Summary Results (.csv)
       4. LIN/LOX Customer Risk Profile (.csv)
