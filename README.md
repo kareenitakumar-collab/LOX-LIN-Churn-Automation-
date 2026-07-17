@@ -45,12 +45,12 @@
 
   1. Average 6-month Volume: How much product are they actually buying? (massive account of tiny one)
     
-  2. Volume Volatility (Standard Deviation): How sporatic are their orders?
+  2. Volume Volatility (Standard Deviation): How sporadic are their orders?
        * a customer who orders exactly 10,000 SCF every single month is very stable
-       * a customer who orders 20,000 one month, 0 the next, and 5,000 the next is highly volatine and inherently riskier
+       * a customer who orders 20,000 one month, 0 the next, and 5,000 the next is highly volatile and inherently riskier
     
   3. Zero-Volume Months: Out of the last 6 months, how many months did they order absolutely nothing?
-       * **this is usally the biggest red flag for impending churn**
+       * **this is usually the biggest red flag for impending churn**
 
 **The Probability Score**
  
