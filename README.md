@@ -41,6 +41,7 @@ Overview: This repository contains the automated data pipeline and machine learn
        * **this is usally the biggest red flag for impending churn**
 
 **The Probability Score**
+ 
   Model weighs those 3 factors together and assigns every active customer a Churn Probability Score from 0% to 100% 
 
   Ex. If a customer's volume has been dropping erratically and they haven't ordered anything in the last 2 months, the model might flag them with an 88% probability of churning.
@@ -66,7 +67,8 @@ $$(\text{Zero-Volume Months} \times \text{Weight}) + (\text{Volume Volatility} \
 If a customer has 3 zero-volume months, and the weight for that is very high, their Raw Score is going to shoot up.
 
 Step 3: The "S-Curve" (Squishing it into a Percentage)
-This is where the magic happens. The "Raw Score" from Step 2 is just an unbounded number—it could be $-400$ or $+150$. To turn that into a usable probability between $0\%$ and $100\%$, the algorithm pushes that Raw Score through a mathematical funnel called a Sigmoid Function (often called an S-Curve).
+
+This is where the magic happens. The "Raw Score" from Step 2 is just an unbounded number—it could be $-400$ or $+150$. To turn that into a usable probability between 0% and 100%, the algorithm pushes that Raw Score through a mathematical funnel called a Sigmoid Function (often called an S-Curve).
 
 If the Raw Score is a high positive number (lots of red flags), the S-curve pushes the output up toward 0.99 (99%).
 
