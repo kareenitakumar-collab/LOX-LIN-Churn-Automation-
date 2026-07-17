@@ -5,13 +5,13 @@
 
 Included in the repository: 
 
-   1. All original datasets containing LIN Volume Data and LOX Volume Data, as well as DP Mapping file (excel)
-   2. Visual Studio (Python Code) forecast visuals 
-   3. LIN/LOX Churn Summary Results (csv)
-   4. LIN/LOX Customer Risk Profile (csv)
-   5. Power BI reestablished forecast visuals (pbix)
-   6. LIN/LOX Enhanced (cleaned) datsets (csv)
-   7. churn_automation and predictive_analysis Python code (py)
+      1. All original datasets containing LIN Volume Data and LOX Volume Data, as well as DP Mapping file (excel)
+      2. Visual Studio (Python Code) forecast visuals 
+      3. LIN/LOX Churn Summary Results (csv)
+      4. LIN/LOX Customer Risk Profile (csv)
+      5. Power BI reestablished forecast visuals (pbix)
+      6. LIN/LOX Enhanced (cleaned) datsets (csv)
+      7. churn_automation and predictive_analysis Python code (py)
 
 
 
