@@ -138,7 +138,7 @@ def build_multivariable_forecast(summary_csv_path, product_name, repo_dir):
     
     # Generate and Save Visual
    # -----------------------------------------
-    # Custom Corporate Visual Generation
+    # Custom Visual Generation
     # -----------------------------------------
     brand_primary = '#0033A0'    
     brand_secondary = '#E31837'  
