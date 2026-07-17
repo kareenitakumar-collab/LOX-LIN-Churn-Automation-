@@ -1,7 +1,7 @@
 # (LIN/LOX) Customer Churn Automation & Predictive Analysis 
 **Overview**: This repository contains the automated data pipeline and machine learning forecasting models for the LIN and LOX bulk gas business. The system is designed to transition our account management from reactive observation to proactive intervention by automatically classifying delivery points, calculation historical churn, and prediction future volume decay using regression algorithms. This tool acts as an automated early-warning system. In generating descriptive risk labels by comparing historical baseline averages against future predictions, allowing operations and sales teams able to easily at-risk accounts in a Power BI Dashboard view.
 
-*All outputs are structured for seamless integration into interactive Power BI dashboards* 
+*All outputs (except Visual Studio Visuals) are structured for seamless integration into interactive Power BI dashboards* 
 
 Included in the repository: 
 
