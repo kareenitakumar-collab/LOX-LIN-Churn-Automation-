@@ -3,7 +3,7 @@
 
 *All outputs (except Python Code Visuals) are structured for seamless integration into interactive Power BI dashboards* 
 
-**Included in the repository: **
+**Included in the repository**:
 
       1. All original datasets containing LIN Volume Data and LOX Volume Data, and DP Mapping file (.excel)
       2. Visual Studio (Python Code) forecast visuals (.png)
