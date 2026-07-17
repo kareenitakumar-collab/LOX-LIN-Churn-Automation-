@@ -43,7 +43,7 @@
   
   The model acts as an early-warning radar by isolating the last 6 months of activity for every active customer and scoring them based on 3 Core Criteria (The "Warning Signs"):
 
-  1. Average 6-month Volume: How much product are they actually buying? (massive account or tiny one)
+  1. Average 6-month Volume: How much product are they actually buying? (massive account or small business)
     
   2. Volume Volatility (Standard Deviation): How sporadic are their orders?
        * a customer who orders exactly 10,000 SCF every single month is very stable
