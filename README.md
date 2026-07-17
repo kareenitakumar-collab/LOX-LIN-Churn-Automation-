@@ -26,6 +26,7 @@ Overview: This repository contains the automated data pipeline and machine learn
          * Generatse a specific, actionable RISK PROFILE for every active customer
 
 **Risk Profile Calculation**
+  
   The model acts as an early-warning radar by isolating the last 6 months of activity for every active customer and scoring them based on 3 Core Criteria (The "Warning Signs"):
 
   1. Average 6-month Volume: How much product are they actually buying? (massive account of tiny one)
