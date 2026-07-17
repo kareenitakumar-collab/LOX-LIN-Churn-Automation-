@@ -4,6 +4,7 @@ Overview: This repository contains the automated data pipeline and machine learn
 *All outputs are structured for seamless integration into interactive Power BI dashboards* 
 
 1. **The Automation Pipeline**
+
    This script handles the raw data extraction, cleaning, and historical classification.
    
    * Smart Cleaning:
@@ -18,8 +19,9 @@ Overview: This repository contains the automated data pipeline and machine learn
    * Git Automation:
                    Automatically commits and pushes newly processed datasets directly into this repository 
 
-2. **The Predictive Model**
-   This script ingests the cleaned historical data and applies two advanced machine learning models:
+3. **The Predictive Model**
+
+    This script ingests the cleaned historical data and applies two advanced machine learning models:
      1. Multivariable Linear Regression:
          * Forecasts the overall business churn percentage for the next 12 months, outputting both a dataset and a corporate-branded trendline visual
     2. Logistic Regression:
