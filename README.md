@@ -114,7 +114,7 @@ Running the pipeline will automatically generate and push the following files to
 
 [Product]_Churn_Forecast_12M.csv: The future 12-month business-level forecast.
 
-[Product]_Forecast_Visual.png: High-resolution, corporate-branded trendline graphs.
+[Product]_Forecast_Visual.png: High-resolution, trendline graphs.
 
 EXECUTION: Running script locally
 
